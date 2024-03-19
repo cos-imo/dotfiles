@@ -15,3 +15,6 @@
 3.2. ZSH/Fish   
    3.2.1. Oh-My-Zsh   
 3.3. Tmux   
+
+## À Propos
+En fait je code tout à la main d'une manière dégueulasse en me servant de la config de base. Mais bon, quand je bosse j'aime bien mettre deux/trois outils en place, donc voilà, pas de dotfiles à proprement parler mais plutôt quelques ressources:
