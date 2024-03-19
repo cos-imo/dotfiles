@@ -18,3 +18,8 @@
 
 ## À Propos
 En fait je code tout à la main d'une manière dégueulasse en me servant de la config de base. Mais bon, quand je bosse j'aime bien mettre deux/trois outils en place, donc voilà, pas de dotfiles à proprement parler mais plutôt quelques ressources:
+
+## Éditeur de texte
+
+### Nvim
+[![Static Badge](https://img.shields.io/badge/NeoVim-grey?logo=neovim&logoColor=green)](https://neovim.io)
